@@ -1,0 +1,23 @@
+body {
+  background-color: #333;
+  color: red;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+button {
+  background-color: white;
+  color: BLue
+}
+#quote-box {
+  border-radius: 3px;
+  position: relative;
+  //margin:8% auto auto auto;
+  width: 600px;
+  padding: 40px 50px;
+  display: table;
+  background-color: #fff;
+}
